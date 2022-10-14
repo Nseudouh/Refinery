@@ -1,0 +1,1943 @@
+PV,TC,LAL,LAH-1,LAH-2,V-6,RV-4,"RV-1,2,3",Output
+Normal,Low,Normal,Normal,Normal,Normal,Normal,Normal,Low risk
+Normal,Low,Normal,Normal,Normal ,Normal,Normal,Medium,Low risk
+Normal,Low ,Normal,Normal,Normal,Normal,Normal,Fail,Medium risk
+Normal,Low ,Normal,Normal ,Normal,Normal,Medium,Normal,Low risk
+Normal,Low ,Normal,Normal ,Normal,Normal,Medium,Medium,Medium risk
+Normal,Low ,Normal ,Normal ,Normal,Normal,Medium,Fail,Medium risk
+Normal,Low ,Normal ,Normal ,Normal,Medium,Fail,Normal,Medium risk
+Normal,Low ,Normal ,Normal ,Normal ,Medium,Fail,Medium,Medium risk
+Normal ,Low ,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Low ,Normal ,Normal ,Medium,Medium,Normal,Normal,Medium risk
+Normal ,Low ,Normal ,Normal ,Medium,Medium,Normal,Medium,Medium risk
+Normal ,Low ,Normal ,Normal ,Medium,Medium,Normal,Fail,High risk
+Normal ,Low ,Normal ,Normal,Medium,Fail,Medium,Normal,High risk
+Normal ,Low ,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Low ,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Normal ,Low ,Normal ,Normal ,Medium,Fail,Fail,Normal,High risk
+Normal ,Low ,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Normal ,Low ,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Low ,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Low ,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Low ,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Normal ,Low ,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Low ,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Low ,Normal ,Medium,Fail,Normal ,Medium,Fail,High risk
+Normal ,Low ,Normal ,Medium,Fail,Medium,Fail,Normal ,High risk
+Normal ,Low ,Normal ,Medium,Fail,Medium,Fail,Medium,High risk
+Normal ,Low ,Normal ,Medium,Fail,Medium,Fail,Fail,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Medium,Normal ,Normal,Medium risk
+Normal ,Low ,Normal ,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Normal ,Low ,Normal ,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Fail,Medium,Fail,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Fail,Fail,Normal ,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Fail,Fail,Medium,High risk
+Normal ,Low ,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Low ,Normal ,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Low ,Normal ,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Low ,Normal ,Fail,Medium,Normal ,Normal ,Fail,High risk
+Normal ,Low ,Normal ,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Low ,Normal ,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Low ,Normal ,Fail,Medium,Normal ,Medium,Fail,Emergency
+Normal ,Low ,Normal ,Fail,Medium,Medium,Fail,Normal ,High risk
+Normal ,Low ,Normal ,Fail,Medium,Medium,Fail,Medium,High risk
+Normal ,Low ,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Medium,Normal ,Normal ,High risk
+Normal ,Low ,Normal ,Fail,Fail,Medium,Normal ,Medium,High risk
+Normal ,Low ,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Low ,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Low risk 
+Normal ,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Low risk 
+Normal ,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Low ,Medium,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Normal ,Low ,Medium,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Normal ,Low ,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Low ,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Low ,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Low ,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Low ,Medium,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Normal ,Low ,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Normal ,Low ,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Low ,Medium,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Low ,Medium,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Low ,Medium,Normal ,Medium,Fail,Medium,Fail,High risk
+Normal ,Low ,Medium,Normal ,Medium,Fail,Fail,Normal ,High risk
+Normal ,Low ,Medium,Normal ,Medium,Fail,Fail,Medium,High risk
+Normal ,Low ,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Low ,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Low ,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Low ,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Normal ,Low ,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Low ,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Low ,Medium,Medium,Fail,Normal ,Medium,Fail,High risk
+Normal ,Low ,Medium,Medium,Fail,Medium,Fail,Normal ,Emergency
+Normal ,Low ,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Normal ,Low ,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Low ,Medium,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Normal ,Low ,Medium,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Normal ,Low ,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Low ,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Low ,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Low ,Medium,Medium,Normal ,Fail,Medium,Fail,High risk
+Normal ,Low ,Medium,Medium,Normal ,Fail,Fail,Normal ,High risk
+Normal ,Low ,Medium,Medium,Normal ,Fail,Fail,Medium,High risk
+Normal ,Low ,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Low ,Medium,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Low ,Medium,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Low ,Medium,Fail,Medium,Normal ,Normal ,Fail,High risk
+Normal ,Low ,Medium,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Low ,Medium,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Low ,Medium,Fail,Medium,Normal ,Medium,Fail,High risk
+Normal ,Low ,Medium,Fail,Medium,Medium,Fail,Normal ,High risk
+Normal ,Low ,Medium,Fail,Medium,Medium,Fail,Medium,High risk
+Normal ,Low ,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Low ,Medium,Fail,Fail,Medium,Normal ,Normal ,High risk
+Normal ,Low ,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Low ,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Low ,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Low ,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Low ,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Low ,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Low ,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Low ,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Medium risk
+Normal ,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Normal ,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Low ,Fail,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Normal ,Low ,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Normal ,Low ,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Low ,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Low ,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Low ,Fail,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Low ,Fail,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Normal ,Low ,Fail,Normal ,Medium,Medium,Normal ,Medium,High risk
+Normal ,Low ,Fail,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Low ,Fail,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Normal ,Low ,Fail,Normal ,Medium,Fail,Medium,Medium,Emergency
+Normal ,Low ,Fail,Normal ,Medium,Fail,Medium,Fail,Emergency
+Normal ,Low ,Fail,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Normal ,Low ,Fail,Normal ,Medium,Fail,Fail,Medium,Emergency
+Normal ,Low ,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Low ,Fail,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Low ,Fail,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Low ,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Normal ,Low ,Fail,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Low ,Fail,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Low ,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Normal ,Low ,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Normal ,Low ,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Normal ,Low ,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Low ,Fail,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Normal ,Low ,Fail,Medium,Normal ,Medium,Normal ,Medium,High risk
+Normal ,Low ,Fail,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Low ,Fail,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Low ,Fail,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Low ,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Normal ,Low ,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Normal ,Low ,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Normal ,Low ,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Low ,Fail,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Low ,Fail,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Low ,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Normal ,Low ,Fail,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Low ,Fail,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Low ,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Normal ,Low ,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Normal ,Low ,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Normal ,Low ,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Low ,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Normal ,Low ,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Low ,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Low ,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Low ,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Low ,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Low ,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Low ,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Low ,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Medium,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,Low risk 
+Normal ,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Normal ,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Normal ,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Normal ,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Medium,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Medium,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Medium,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Normal ,Medium,Normal ,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Normal ,Medium,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Fail,Fail,Normal ,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Normal ,Medium,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Medium,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Medium,Normal ,Medium,Fail,Normal ,Medium,Fail,High risk
+Normal ,Medium,Normal ,Medium,Fail,Medium,Fail,Normal ,High risk
+Normal ,Medium,Normal ,Medium,Fail,Medium,Fail,Medium,High risk
+Normal ,Medium,Normal ,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Medium,Normal ,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Normal ,Medium,Normal ,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Normal ,Medium,Normal ,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Medium,Normal ,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Medium,Normal ,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Medium,Normal ,Medium,Normal ,Fail,Medium,Fail,High risk
+Normal ,Medium,Normal ,Medium,Normal ,Fail,Fail,Normal ,High risk
+Normal ,Medium,Normal ,Medium,Normal ,Fail,Fail,Medium,High risk
+Normal ,Medium,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Medium,Normal ,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Normal ,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Normal ,Fail,Medium,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Normal ,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Normal ,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Medium,Normal ,Fail,Medium,Normal ,Medium,Fail,High risk
+Normal ,Medium,Normal ,Fail,Medium,Medium,Fail,Normal ,High risk
+Normal ,Medium,Normal ,Fail,Medium,Medium,Fail,Medium,High risk
+Normal ,Medium,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Medium,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Medium risk
+Normal ,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Normal ,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Medium,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Normal ,Medium,Medium,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Normal ,Medium,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Medium,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Medium,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Medium,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Medium,Medium,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Normal ,Medium,Medium,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Normal ,Medium,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Medium,Medium,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Medium,Medium,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Medium,Medium,Normal ,Medium,Fail,Medium,Fail,High risk
+Normal ,Medium,Medium,Normal ,Medium,Fail,Fail,Normal ,High risk
+Normal ,Medium,Medium,Normal ,Medium,Fail,Fail,Medium,High risk
+Normal ,Medium,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Medium,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Medium,Medium,Medium,Fail,Normal ,Medium,Fail,High risk
+Normal ,Medium,Medium,Medium,Fail,Medium,Fail,Normal ,High risk
+Normal ,Medium,Medium,Medium,Fail,Medium,Fail,Medium,High risk
+Normal ,Medium,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Medium,Medium,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Normal ,Medium,Medium,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Normal ,Medium,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Medium,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Medium,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Medium,Medium,Medium,Normal ,Fail,Medium,Fail,High risk
+Normal ,Medium,Medium,Medium,Normal ,Fail,Fail,Normal ,High risk
+Normal ,Medium,Medium,Medium,Normal ,Fail,Fail,Medium,High risk
+Normal ,Medium,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Medium,Medium,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Medium,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Medium,Fail,Medium,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Medium,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Medium,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Medium,Medium,Fail,Medium,Normal ,Medium,Fail,High risk
+Normal ,Medium,Medium,Fail,Medium,Medium,Fail,Normal ,High risk
+Normal ,Medium,Medium,Fail,Medium,Medium,Fail,Medium,High risk
+Normal ,Medium,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Medium,Medium,Fail,Fail,Medium,Normal ,Normal ,High risk
+Normal ,Medium,Medium,Fail,Fail,Medium,Normal ,Medium,High risk
+Normal ,Medium,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Medium,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Medium,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Medium,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Medium,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Medium,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Medium,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Medium,Fail,Normal ,Normal ,Medium,Fail,Fail,Emergency
+Normal ,Medium,Fail,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Normal ,Medium,Fail,Normal ,Medium,Medium,Normal ,Medium,High risk
+Normal ,Medium,Fail,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Medium,Fail,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Medium,Fail,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Medium,Fail,Normal ,Medium,Fail,Medium,Fail,Emergency
+Normal ,Medium,Fail,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Normal ,Medium,Fail,Normal ,Medium,Fail,Fail,Medium,Emergency
+Normal ,Medium,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Medium,Fail,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Fail,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Normal ,Medium,Fail,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Fail,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Medium,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Normal ,Medium,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Normal ,Medium,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Normal ,Medium,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Medium,Fail,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Normal ,Medium,Fail,Medium,Normal ,Medium,Normal ,Medium,High risk
+Normal ,Medium,Fail,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Medium,Fail,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Medium,Fail,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Medium,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Normal ,Medium,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Normal ,Medium,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Normal ,Medium,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Medium,Fail,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Medium,Fail,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Medium,Fail,Fail,Medium,Normal ,Normal ,Fail,High risk
+Normal ,Medium,Fail,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Medium,Fail,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Medium,Fail,Fail,Medium,Normal ,Medium,Fail,High risk
+Normal ,Medium,Fail,Fail,Medium,Medium,Fail,Normal ,High risk
+Normal ,Medium,Fail,Fail,Medium,Medium,Fail,Medium,High risk
+Normal ,Medium,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Medium,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Normal ,Medium,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Medium,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Medium,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Medium,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Medium,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Medium,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Medium,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Medium,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Fail,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,Medium risk
+Normal ,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Normal ,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Normal ,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Normal ,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Fail,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Fail,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Fail,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Fail,Normal ,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Normal ,Fail,Normal ,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Normal ,Fail,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Fail,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Fail,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Fail,Normal ,Normal ,Medium,Fail,Medium,Fail,Emergency
+Normal ,Fail,Normal ,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Normal ,Normal ,Medium,Fail,Fail,Medium,Emergency
+Normal ,Fail,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Fail,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Normal ,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Normal ,Fail,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Fail,Normal ,Medium,Fail,Normal ,Medium,Fail,Emergency
+Normal ,Fail,Normal ,Medium,Fail,Medium,Fail,Normal ,Emergency
+Normal ,Fail,Normal ,Medium,Fail,Medium,Fail,Medium,Emergency
+Normal ,Fail,Normal ,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Normal ,Fail,Normal ,Medium,Normal ,Medium,Normal ,Medium,High risk
+Normal ,Fail,Normal ,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Fail,Medium,Medium,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Fail,Medium,Fail,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Fail,Fail,Medium,Emergency
+Normal ,Fail,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Fail,Normal ,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Normal ,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Normal ,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Normal ,Fail,Normal ,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Normal ,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Fail,Normal ,Fail,Medium,Normal ,Medium,Fail,Emergency
+Normal ,Fail,Normal ,Fail,Medium,Medium,Fail,Normal ,Emergency
+Normal ,Fail,Normal ,Fail,Medium,Medium,Fail,Medium,Emergency
+Normal ,Fail,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Fail,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Medium risk
+Normal ,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Normal ,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Fail,Medium,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Normal ,Fail,Medium,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Normal ,Fail,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Fail,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Fail,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Fail,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Fail,Medium,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Normal ,Fail,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Normal ,Fail,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Normal ,Fail,Medium,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Fail,Medium,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Fail,Medium,Normal ,Medium,Fail,Medium,Fail,Emergency
+Normal ,Fail,Medium,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Medium,Normal ,Medium,Fail,Fail,Medium,Emergency
+Normal ,Fail,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Fail,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Normal ,Fail,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Fail,Medium,Medium,Fail,Normal ,Medium,Fail,Emergency
+Normal ,Fail,Medium,Medium,Fail,Medium,Fail,Normal ,Emergency
+Normal ,Fail,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Normal ,Fail,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Fail,Medium,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Normal ,Fail,Medium,Medium,Normal ,Medium,Normal ,Medium,High risk
+Normal ,Fail,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Normal ,Fail,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Fail,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Fail,Medium,Medium,Normal ,Fail,Medium,Fail,Emergency
+Normal ,Fail,Medium,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Medium,Medium,Normal ,Fail,Fail,Medium,Emergency
+Normal ,Fail,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Fail,Medium,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Medium,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Medium,Fail,Medium,Normal ,Normal ,Fail,High risk
+Normal ,Fail,Medium,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Medium,Fail,Medium,Normal ,Medium,Medium,High risk
+Normal ,Fail,Medium,Fail,Medium,Normal ,Medium,Fail,High risk
+Normal ,Fail,Medium,Fail,Medium,Medium,Fail,Normal ,High risk
+Normal ,Fail,Medium,Fail,Medium,Medium,Fail,Medium,High risk
+Normal ,Fail,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Fail,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Normal ,Fail,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Fail,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Fail,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Fail,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Fail,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Fail,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Fail,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Normal ,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Normal ,Fail,Fail,Normal ,Normal ,Medium,Fail,Fail,High risk
+Normal ,Fail,Fail,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Normal ,Fail,Fail,Normal ,Medium,Medium,Normal ,Medium,High risk
+Normal ,Fail,Fail,Normal ,Medium,Medium,Normal ,Fail,Emergency
+Normal ,Fail,Fail,Normal ,Medium,Fail,Medium,Normal ,High risk
+Normal ,Fail,Fail,Normal ,Medium,Fail,Medium,Medium,High risk
+Normal ,Fail,Fail,Normal ,Medium,Fail,Medium,Fail,Emergency
+Normal ,Fail,Fail,Normal ,Medium,Fail,Fail,Normal ,High risk
+Normal ,Fail,Fail,Normal ,Medium,Fail,Fail,Medium,High risk
+Normal ,Fail,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Normal ,Fail,Fail,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Fail,Medium,Fail,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Normal ,Fail,Fail,Medium,Fail,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Fail,Medium,Fail,Normal ,Medium,Medium,High risk
+Normal ,Fail,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Normal ,Fail,Fail,Medium,Fail,Medium,Fail,Normal ,High risk
+Normal ,Fail,Fail,Medium,Fail,Medium,Fail,Medium,High risk
+Normal ,Fail,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Normal ,Fail,Fail,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Normal ,Fail,Fail,Medium,Normal ,Medium,Normal ,Medium,High risk
+Normal ,Fail,Fail,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Normal ,Fail,Fail,Medium,Normal ,Fail,Medium,Normal ,High risk
+Normal ,Fail,Fail,Medium,Normal ,Fail,Medium,Medium,High risk
+Normal ,Fail,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Normal ,Fail,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Normal ,Fail,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Normal ,Fail,Fail,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Normal ,Fail,Fail,Fail,Medium,Normal ,Normal ,Medium,High risk
+Normal ,Fail,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Normal ,Fail,Fail,Fail,Medium,Normal ,Medium,Normal ,High risk
+Normal ,Fail,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Normal ,Fail,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Normal ,Fail,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Normal ,Fail,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Normal ,Fail,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Normal ,Fail,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Normal ,Fail,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Normal ,Fail,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Normal ,Fail,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Normal ,Fail,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Normal ,Fail,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Normal ,Fail,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Normal ,Fail,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Normal ,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Low ,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,Low risk 
+Medium,Low ,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,Low risk 
+Medium,Low ,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,Medium risk
+Medium,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Medium,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Medium,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Low ,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Low ,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Low ,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Low ,Normal ,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Medium,Low ,Normal ,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Medium,Low ,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Low ,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Medium,Low ,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Medium,Low ,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Medium,Low ,Normal ,Normal ,Medium,Fail,Fail,Normal ,High risk
+Medium,Low ,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Medium,Low ,Normal ,Normal ,Medium,Fail,Fail,Fail,High risk
+Medium,Low ,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Low ,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Low ,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Medium,Low ,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Low ,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Low ,Normal ,Medium,Fail,Normal ,Medium,Fail,High risk
+Medium,Low ,Normal ,Medium,Fail,Medium,Fail,Normal ,High risk
+Medium,Low ,Normal ,Medium,Fail,Medium,Fail,Medium,High risk
+Medium,Low ,Normal ,Medium,Fail,Medium,Fail,Fail,High risk
+Medium,Low ,Normal ,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Medium,Low ,Normal ,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Medium,Low ,Normal ,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Low ,Normal ,Medium,Normal ,Fail,Medium,Normal ,High risk
+Medium,Low ,Normal ,Medium,Normal ,Fail,Medium,Medium,High risk
+Medium,Low ,Normal ,Medium,Normal ,Fail,Medium,Fail,High risk
+Medium,Low ,Normal ,Medium,Normal ,Fail,Fail,Normal ,High risk
+Medium,Low ,Normal ,Medium,Normal ,Fail,Fail,Medium,High risk
+Medium,Low ,Normal ,Medium,Normal ,Fail,Fail,Fail,High risk
+Medium,Low ,Normal ,Fail,Medium,Normal ,Normal ,Normal ,Medium risk
+Medium,Low ,Normal ,Fail,Medium,Normal ,Normal ,Medium,Medium risk
+Medium,Low ,Normal ,Fail,Medium,Normal ,Normal ,Fail,High risk
+Medium,Low ,Normal ,Fail,Medium,Normal ,Medium,Normal ,Medium risk
+Medium,Low ,Normal ,Fail,Medium,Normal ,Medium,Medium,Medium risk
+Medium,Low ,Normal ,Fail,Medium,Normal ,Medium,Fail,High risk
+Medium,Low ,Normal ,Fail,Medium,Medium,Fail,Normal ,High risk
+Medium,Low ,Normal ,Fail,Medium,Medium,Fail,Medium,High risk
+Medium,Low ,Normal ,Fail,Medium,Medium,Fail,Fail,High risk
+Medium,Low ,Normal ,Fail,Fail,Medium,Normal ,Normal ,High risk
+Medium,Low ,Normal ,Fail,Fail,Medium,Normal ,Medium,High risk
+Medium,Low ,Normal ,Fail,Fail,Medium,Normal ,Fail,High risk
+Medium,Low ,Normal ,Fail,Fail,Fail,Medium,Normal ,High risk
+Medium,Low ,Normal ,Fail,Fail,Fail,Medium,Medium,High risk
+Medium,Low ,Normal ,Fail,Fail,Fail,Medium,Fail,High risk
+Medium,Low ,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Low ,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Low ,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Low risk 
+Medium,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Medium,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Medium,Low ,Medium,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Medium,Low ,Medium,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Medium,Low ,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Low ,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Low ,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Low ,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Low ,Medium,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Medium,Low ,Medium,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Medium,Low ,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Low ,Medium,Normal ,Medium,Fail,Medium,Normal ,High risk
+Medium,Low ,Medium,Normal ,Medium,Fail,Medium,Medium,High risk
+Medium,Low ,Medium,Normal ,Medium,Fail,Medium,Fail,High risk
+Medium,Low ,Medium,Normal ,Medium,Fail,Fail,Normal ,High risk
+Medium,Low ,Medium,Normal ,Medium,Fail,Fail,Medium,High risk
+Medium,Low ,Medium,Normal ,Medium,Fail,Fail,Fail,High risk
+Medium,Low ,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Low ,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Low ,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Medium,Low ,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Low ,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Low ,Medium,Medium,Fail,Normal ,Medium,Fail,High risk
+Medium,Low ,Medium,Medium,Fail,Medium,Fail,Normal ,High risk
+Medium,Low ,Medium,Medium,Fail,Medium,Fail,Medium,High risk
+Medium,Low ,Medium,Medium,Fail,Medium,Fail,Fail,High risk
+Medium,Low ,Medium,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Medium,Low ,Medium,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Medium,Low ,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Low ,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Medium,Low ,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Medium,Low ,Medium,Medium,Normal ,Fail,Medium,Fail,High risk
+Medium,Low ,Medium,Medium,Normal ,Fail,Fail,Normal ,High risk
+Medium,Low ,Medium,Medium,Normal ,Fail,Fail,Medium,High risk
+Medium,Low ,Medium,Medium,Normal ,Fail,Fail,Fail,High risk
+Medium,Low ,Medium,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Medium,Low ,Medium,Fail,Medium,Normal ,Normal ,Medium,High risk
+Medium,Low ,Medium,Fail,Medium,Normal ,Normal ,Fail,High risk
+Medium,Low ,Medium,Fail,Medium,Normal ,Medium,Normal ,High risk
+Medium,Low ,Medium,Fail,Medium,Normal ,Medium,Medium,High risk
+Medium,Low ,Medium,Fail,Medium,Normal ,Medium,Fail,High risk
+Medium,Low ,Medium,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Low ,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Low ,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Low ,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Low ,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Low ,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Low ,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Low ,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Low ,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Low ,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Low ,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Low ,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Medium risk
+Medium,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Medium,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Medium,Low ,Fail,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Medium,Low ,Fail,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Medium,Low ,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Low ,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Low ,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Low ,Fail,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Low ,Fail,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Medium,Low ,Fail,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Medium,Low ,Fail,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Low ,Fail,Normal ,Medium,Fail,Medium,Normal ,High risk
+Medium,Low ,Fail,Normal ,Medium,Fail,Medium,Medium,High risk
+Medium,Low ,Fail,Normal ,Medium,Fail,Medium,Fail,High risk
+Medium,Low ,Fail,Normal ,Medium,Fail,Fail,Normal ,High risk
+Medium,Low ,Fail,Normal ,Medium,Fail,Fail,Medium,High risk
+Medium,Low ,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Low ,Fail,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Low ,Fail,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Low ,Fail,Medium,Fail,Normal ,Normal ,Fail,High risk
+Medium,Low ,Fail,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Low ,Fail,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Low ,Fail,Medium,Fail,Normal ,Medium,Fail,High risk
+Medium,Low ,Fail,Medium,Fail,Medium,Fail,Normal ,High risk
+Medium,Low ,Fail,Medium,Fail,Medium,Fail,Medium,High risk
+Medium,Low ,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Low ,Fail,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Medium,Low ,Fail,Medium,Normal ,Medium,Normal ,Medium,High risk
+Medium,Low ,Fail,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Low ,Fail,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Medium,Low ,Fail,Medium,Normal ,Fail,Medium,Medium,Emergency
+Medium,Low ,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Medium,Low ,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Medium,Low ,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Medium,Low ,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Low ,Fail,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Medium,Low ,Fail,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Medium,Low ,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Medium,Low ,Fail,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Medium,Low ,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Medium,Low ,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Medium,Low ,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Low ,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Low ,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Low ,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Low ,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Low ,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Low ,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Low ,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Low ,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Low ,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Low ,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Low ,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Medium,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,Low risk 
+Medium,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Medium,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,Medium risk
+Medium,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Medium,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Medium,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Medium,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Medium,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Medium,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Medium,Normal ,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Medium,Medium,Normal ,Normal ,Medium,Medium,Normal ,Medium,Medium risk
+Medium,Medium,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Medium,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Medium,Medium,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Medium,Medium,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Medium,Medium,Normal ,Normal ,Medium,Fail,Fail,Normal ,High risk
+Medium,Medium,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Medium,Medium,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Medium,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Medium,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Medium,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Medium,Medium,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Medium,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Medium,Normal ,Medium,Fail,Normal ,Medium,Fail,High risk
+Medium,Medium,Normal ,Medium,Fail,Medium,Fail,Normal ,Emergency
+Medium,Medium,Normal ,Medium,Fail,Medium,Fail,Medium,Emergency
+Medium,Medium,Normal ,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Medium,Normal ,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Medium,Medium,Normal ,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Medium,Medium,Normal ,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Medium,Normal ,Medium,Normal ,Fail,Medium,Normal ,High risk
+Medium,Medium,Normal ,Medium,Normal ,Fail,Medium,Medium,High risk
+Medium,Medium,Normal ,Medium,Normal ,Fail,Medium,Fail,High risk
+Medium,Medium,Normal ,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Medium,Medium,Normal ,Medium,Normal ,Fail,Fail,Medium,Emergency
+Medium,Medium,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Medium,Normal ,Fail,Medium,Normal ,Normal ,Normal ,Medium risk
+Medium,Medium,Normal ,Fail,Medium,Normal ,Normal ,Medium,Medium risk
+Medium,Medium,Normal ,Fail,Medium,Normal ,Normal ,Fail,High risk
+Medium,Medium,Normal ,Fail,Medium,Normal ,Medium,Normal ,Medium risk
+Medium,Medium,Normal ,Fail,Medium,Normal ,Medium,Medium,Medium risk
+Medium,Medium,Normal ,Fail,Medium,Normal ,Medium,Fail,High risk
+Medium,Medium,Normal ,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Medium,Normal ,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Medium,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Medium,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Medium,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Medium,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Medium,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Medium,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Medium,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Medium,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Medium,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Medium,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Medium risk
+Medium,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium risk
+Medium,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Medium,Medium,Medium,Normal ,Normal ,Normal ,Medium,Normal ,Medium risk
+Medium,Medium,Medium,Normal ,Normal ,Normal ,Medium,Medium,Medium risk
+Medium,Medium,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Medium,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Medium,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Medium,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Medium,Medium,Normal ,Medium,Medium,Normal ,Normal ,Medium risk
+Medium,Medium,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Medium,Medium,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Medium,Medium,Normal ,Medium,Fail,Medium,Normal ,High risk
+Medium,Medium,Medium,Normal ,Medium,Fail,Medium,Medium,High risk
+Medium,Medium,Medium,Normal ,Medium,Fail,Medium,Fail,High risk
+Medium,Medium,Medium,Normal ,Medium,Fail,Fail,Normal ,High risk
+Medium,Medium,Medium,Normal ,Medium,Fail,Fail,Medium,High risk
+Medium,Medium,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Medium,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Medium,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Medium,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Medium,Medium,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Medium,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Medium,Medium,Medium,Fail,Normal ,Medium,Fail,High risk
+Medium,Medium,Medium,Medium,Fail,Medium,Fail,Normal ,High risk
+Medium,Medium,Medium,Medium,Fail,Medium,Fail,Medium,High risk
+Medium,Medium,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Medium,Medium,Medium,Normal ,Medium,Normal ,Normal ,Medium risk
+Medium,Medium,Medium,Medium,Normal ,Medium,Normal ,Medium,Medium risk
+Medium,Medium,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Medium,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Medium,Medium,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Medium,Medium,Medium,Medium,Normal ,Fail,Medium,Fail,High risk
+Medium,Medium,Medium,Medium,Normal ,Fail,Fail,Normal ,High risk
+Medium,Medium,Medium,Medium,Normal ,Fail,Fail,Medium,High risk
+Medium,Medium,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Medium,Medium,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Medium,Medium,Medium,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Medium,Medium,Medium,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Medium,Medium,Medium,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Medium,Medium,Medium,Fail,Medium,Normal ,Medium,Medium,Emergency
+Medium,Medium,Medium,Fail,Medium,Normal ,Medium,Fail,Emergency
+Medium,Medium,Medium,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Medium,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Medium,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Medium,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Medium,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Medium,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Medium,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Medium,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Medium,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Medium,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Medium,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Medium,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Medium,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Medium,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Medium,Medium,Fail,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Medium,Medium,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Medium,Medium,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Medium,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Medium,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Medium,Fail,Normal ,Normal ,Medium,Fail,Fail,Emergency
+Medium,Medium,Fail,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Medium,Medium,Fail,Normal ,Medium,Medium,Normal ,Medium,High risk
+Medium,Medium,Fail,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Medium,Fail,Normal ,Medium,Fail,Medium,Normal ,High risk
+Medium,Medium,Fail,Normal ,Medium,Fail,Medium,Medium,High risk
+Medium,Medium,Fail,Normal ,Medium,Fail,Medium,Fail,Emergency
+Medium,Medium,Fail,Normal ,Medium,Fail,Fail,Normal ,High risk
+Medium,Medium,Fail,Normal ,Medium,Fail,Fail,Medium,High risk
+Medium,Medium,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Medium,Fail,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Medium,Fail,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Medium,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Medium,Medium,Fail,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Medium,Fail,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Medium,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Medium,Medium,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Medium,Medium,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Medium,Medium,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Medium,Fail,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Medium,Medium,Fail,Medium,Normal ,Medium,Normal ,Medium,High risk
+Medium,Medium,Fail,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Medium,Fail,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Medium,Medium,Fail,Medium,Normal ,Fail,Medium,Medium,Emergency
+Medium,Medium,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Medium,Medium,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Medium,Medium,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Medium,Medium,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Medium,Fail,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Medium,Medium,Fail,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Medium,Medium,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Medium,Medium,Fail,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Medium,Medium,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Medium,Medium,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Medium,Medium,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Medium,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Medium,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Medium,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Medium,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Medium,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Medium,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Medium,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Medium,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Medium,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Medium,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Medium,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Fail,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Fail,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Fail,Normal ,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Medium,Fail,Normal ,Normal ,Medium,Medium,Normal ,Medium,High risk
+Medium,Fail,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Fail,Normal ,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Medium,Fail,Normal ,Normal ,Medium,Fail,Medium,Medium,Emergency
+Medium,Fail,Normal ,Normal ,Medium,Fail,Medium,Fail,Emergency
+Medium,Fail,Normal ,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Medium,Fail,Normal ,Normal ,Medium,Fail,Fail,Medium,Emergency
+Medium,Fail,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Fail,Normal ,Medium,Fail,Normal ,Normal ,Normal ,Emergency
+Medium,Fail,Normal ,Medium,Fail,Normal ,Normal ,Medium,Emergency
+Medium,Fail,Normal ,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Medium,Fail,Normal ,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Medium,Fail,Normal ,Medium,Fail,Normal ,Medium,Medium,Emergency
+Medium,Fail,Normal ,Medium,Fail,Normal ,Medium,Fail,Emergency
+Medium,Fail,Normal ,Medium,Fail,Medium,Fail,Normal ,Emergency
+Medium,Fail,Normal ,Medium,Fail,Medium,Fail,Medium,Emergency
+Medium,Fail,Normal ,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Medium,Normal ,Normal ,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Medium,Normal ,Medium,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Fail,Medium,Medium,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Fail,Medium,Fail,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Fail,Fail,Medium,Emergency
+Medium,Fail,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Fail,Normal ,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Medium,Fail,Normal ,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Medium,Fail,Normal ,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Medium,Fail,Normal ,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Medium,Fail,Normal ,Fail,Medium,Normal ,Medium,Medium,Emergency
+Medium,Fail,Normal ,Fail,Medium,Normal ,Medium,Fail,Emergency
+Medium,Fail,Normal ,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Fail,Normal ,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Fail,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Fail,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Fail,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Fail,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Fail,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Fail,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Fail,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Fail,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Fail,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Fail,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Medium,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Medium,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Medium,Fail,Medium,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Medium,Fail,Medium,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Medium,Fail,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Medium,Fail,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Medium,Fail,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Medium,Fail,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Medium,Fail,Medium,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Medium,Fail,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Medium,Fail,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Medium,Fail,Medium,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Medium,Fail,Medium,Normal ,Medium,Fail,Medium,Medium,Emergency
+Medium,Fail,Medium,Normal ,Medium,Fail,Medium,Fail,Emergency
+Medium,Fail,Medium,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Medium,Fail,Medium,Normal ,Medium,Fail,Fail,Medium,Emergency
+Medium,Fail,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Fail,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Medium,Fail,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Medium,Fail,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Medium,Fail,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Medium,Fail,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Medium,Fail,Medium,Medium,Fail,Normal ,Medium,Fail,High risk
+Medium,Fail,Medium,Medium,Fail,Medium,Fail,Normal ,High risk
+Medium,Fail,Medium,Medium,Fail,Medium,Fail,Medium,High risk
+Medium,Fail,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Fail,Medium,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Medium,Fail,Medium,Medium,Normal ,Medium,Normal ,Medium,High risk
+Medium,Fail,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Medium,Fail,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Medium,Fail,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Medium,Fail,Medium,Medium,Normal ,Fail,Medium,Fail,High risk
+Medium,Fail,Medium,Medium,Normal ,Fail,Fail,Normal ,High risk
+Medium,Fail,Medium,Medium,Normal ,Fail,Fail,Medium,High risk
+Medium,Fail,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Fail,Medium,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Medium,Fail,Medium,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Medium,Fail,Medium,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Medium,Fail,Medium,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Medium,Fail,Medium,Fail,Medium,Normal ,Medium,Medium,Emergency
+Medium,Fail,Medium,Fail,Medium,Normal ,Medium,Fail,Emergency
+Medium,Fail,Medium,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Fail,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Fail,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Fail,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Fail,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Fail,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Fail,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Fail,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Fail,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Fail,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Fail,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Fail,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Fail,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Normal ,Medium,Normal ,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Normal ,Medium,Medium,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Normal ,Medium,Fail,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Medium,Fail,Normal ,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Medium,Fail,Medium,Emergency
+Medium,Fail,Fail,Normal ,Normal ,Medium,Fail,Fail,Emergency
+Medium,Fail,Fail,Normal ,Medium,Medium,Normal ,Normal ,Emergency
+Medium,Fail,Fail,Normal ,Medium,Medium,Normal ,Medium,Emergency
+Medium,Fail,Fail,Normal ,Medium,Medium,Normal ,Fail,Emergency
+Medium,Fail,Fail,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Medium,Fail,Fail,Normal ,Medium,Fail,Medium,Medium,Emergency
+Medium,Fail,Fail,Normal ,Medium,Fail,Medium,Fail,Emergency
+Medium,Fail,Fail,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Medium,Fail,Fail,Normal ,Medium,Fail,Fail,Medium,Emergency
+Medium,Fail,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Medium,Fail,Fail,Medium,Fail,Normal ,Normal ,Normal ,Emergency
+Medium,Fail,Fail,Medium,Fail,Normal ,Normal ,Medium,Emergency
+Medium,Fail,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Medium,Fail,Fail,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Medium,Fail,Fail,Medium,Fail,Normal ,Medium,Medium,Emergency
+Medium,Fail,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Medium,Fail,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Medium,Fail,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Medium,Fail,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Medium,Fail,Fail,Medium,Normal ,Medium,Normal ,Normal ,Emergency
+Medium,Fail,Fail,Medium,Normal ,Medium,Normal ,Medium,Emergency
+Medium,Fail,Fail,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Medium,Fail,Fail,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Medium,Fail,Fail,Medium,Normal ,Fail,Medium,Medium,Emergency
+Medium,Fail,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Medium,Fail,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Medium,Fail,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Medium,Fail,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Medium,Fail,Fail,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Medium,Fail,Fail,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Medium,Fail,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Medium,Fail,Fail,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Medium,Fail,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Medium,Fail,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Medium,Fail,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Medium,Fail,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Medium,Fail,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Medium,Fail,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Medium,Fail,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Medium,Fail,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Medium,Fail,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Medium,Fail,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Medium,Fail,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Medium,Fail,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Medium,Fail,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Medium,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Low ,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Low ,Normal ,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Low ,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Fail,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Fail,Fail,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Medium,Fail,High risk
+Fail,Low ,Normal ,Medium,Fail,Medium,Fail,Normal ,High risk
+Fail,Low ,Normal ,Medium,Fail,Medium,Fail,Medium,High risk
+Fail,Low ,Normal ,Medium,Fail,Medium,Fail,Fail,High risk
+Fail,Low ,Normal ,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Medium,Normal ,Medium,Normal ,Medium,High risk
+Fail,Low ,Normal ,Medium,Normal ,Medium,Normal ,Fail,High risk
+Fail,Low ,Normal ,Medium,Normal ,Fail,Medium,Normal ,High risk
+Fail,Low ,Normal ,Medium,Normal ,Fail,Medium,Medium,High risk
+Fail,Low ,Normal ,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Low ,Normal ,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Low ,Normal ,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Low ,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Low ,Normal ,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Fail,Medium,Normal ,Normal ,Medium,High risk
+Fail,Low ,Normal ,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Low ,Normal ,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Low ,Normal ,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Low ,Normal ,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Low ,Normal ,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Low ,Normal ,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Low ,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Low ,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Low ,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Low ,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Low ,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Low ,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Low ,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Low ,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Low ,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Low ,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Low ,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Low ,Medium,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Low ,Medium,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Low ,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Low ,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Low ,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Low ,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Low ,Medium,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Low ,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Low ,Medium,Normal ,Medium,Medium,Normal ,Fail,High risk
+Fail,Low ,Medium,Normal ,Medium,Fail,Medium,Normal ,High risk
+Fail,Low ,Medium,Normal ,Medium,Fail,Medium,Medium,High risk
+Fail,Low ,Medium,Normal ,Medium,Fail,Medium,Fail,High risk
+Fail,Low ,Medium,Normal ,Medium,Fail,Fail,Normal ,High risk
+Fail,Low ,Medium,Normal ,Medium,Fail,Fail,Medium,High risk
+Fail,Low ,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Low ,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Low ,Medium,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Fail,Low ,Medium,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Fail,Low ,Medium,Medium,Fail,Normal ,Medium,Medium,Emergency
+Fail,Low ,Medium,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Low ,Medium,Medium,Fail,Medium,Fail,Normal ,Emergency
+Fail,Low ,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Low ,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Low ,Medium,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Fail,Low ,Medium,Medium,Normal ,Medium,Normal ,Medium,High risk
+Fail,Low ,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Fail,Low ,Medium,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Fail,Low ,Medium,Medium,Normal ,Fail,Medium,Medium,Emergency
+Fail,Low ,Medium,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Low ,Medium,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Low ,Medium,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Low ,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Low ,Medium,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Medium,Fail,Medium,Normal ,Normal ,Medium,High risk
+Fail,Low ,Medium,Fail,Medium,Normal ,Normal ,Fail,High risk
+Fail,Low ,Medium,Fail,Medium,Normal ,Medium,Normal ,High risk
+Fail,Low ,Medium,Fail,Medium,Normal ,Medium,Medium,High risk
+Fail,Low ,Medium,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Low ,Medium,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Low ,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Low ,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Low ,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Low ,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Low ,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Low ,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Low ,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Low ,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Low ,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Low ,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Low ,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Low ,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Low ,Fail,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Low ,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Low ,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Low ,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Low ,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Low ,Fail,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Low ,Fail,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Low ,Fail,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Low ,Fail,Normal ,Medium,Medium,Normal ,Fail,High risk
+Fail,Low ,Fail,Normal ,Medium,Fail,Medium,Normal ,High risk
+Fail,Low ,Fail,Normal ,Medium,Fail,Medium,Medium,High risk
+Fail,Low ,Fail,Normal ,Medium,Fail,Medium,Fail,High risk
+Fail,Low ,Fail,Normal ,Medium,Fail,Fail,Normal ,High risk
+Fail,Low ,Fail,Normal ,Medium,Fail,Fail,Medium,High risk
+Fail,Low ,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Low ,Fail,Medium,Fail,Normal ,Normal ,Normal ,Emergency
+Fail,Low ,Fail,Medium,Fail,Normal ,Normal ,Medium,Emergency
+Fail,Low ,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Fail,Low ,Fail,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Fail,Low ,Fail,Medium,Fail,Normal ,Medium,Medium,Emergency
+Fail,Low ,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Low ,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Fail,Low ,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Low ,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Low ,Fail,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Fail,Low ,Fail,Medium,Normal ,Medium,Normal ,Medium,High risk
+Fail,Low ,Fail,Medium,Normal ,Medium,Normal ,Fail,High risk
+Fail,Low ,Fail,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Fail,Low ,Fail,Medium,Normal ,Fail,Medium,Medium,Emergency
+Fail,Low ,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Low ,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Low ,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Low ,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Low ,Fail,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Fail,Low ,Fail,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Fail,Low ,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Low ,Fail,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Low ,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Low ,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Low ,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Low ,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Low ,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Low ,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Low ,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Low ,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Low ,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Low ,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Low ,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Low ,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Low ,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Low ,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Medium,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Medium,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Medium,Normal ,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Medium,Normal ,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Medium,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Fail,Medium,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Fail,Medium,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Fail,Medium,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Fail,Medium,Normal ,Normal ,Medium,Fail,Fail,Normal ,High risk
+Fail,Medium,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Fail,Medium,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Medium,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Medium,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Fail,Medium,Normal ,Medium,Fail,Normal ,Medium,Normal ,High risk
+Fail,Medium,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Fail,Medium,Normal ,Medium,Fail,Normal ,Medium,Fail,High risk
+Fail,Medium,Normal ,Medium,Fail,Medium,Fail,Normal ,High risk
+Fail,Medium,Normal ,Medium,Fail,Medium,Fail,Medium,High risk
+Fail,Medium,Normal ,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Medium,Normal ,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Fail,Medium,Normal ,Medium,Normal ,Medium,Normal ,Medium,High risk
+Fail,Medium,Normal ,Medium,Normal ,Medium,Normal ,Fail,High risk
+Fail,Medium,Normal ,Medium,Normal ,Fail,Medium,Normal ,High risk
+Fail,Medium,Normal ,Medium,Normal ,Fail,Medium,Medium,High risk
+Fail,Medium,Normal ,Medium,Normal ,Fail,Medium,Fail,High risk
+Fail,Medium,Normal ,Medium,Normal ,Fail,Fail,Normal ,High risk
+Fail,Medium,Normal ,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Medium,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Medium,Normal ,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Normal ,Fail,Medium,Normal ,Normal ,Medium,High risk
+Fail,Medium,Normal ,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Medium,Normal ,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Medium,Normal ,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Medium,Normal ,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Medium,Normal ,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Medium,Normal ,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Medium,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Medium,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Medium,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Medium,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Medium,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Medium,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Medium,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Medium,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Medium,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Medium,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Medium,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Medium,Medium,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Medium,Medium,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Medium,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Medium,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Medium,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Medium,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Medium,Medium,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Medium,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Medium,Medium,Normal ,Medium,Medium,Normal ,Fail,Emergency
+Fail,Medium,Medium,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Fail,Medium,Medium,Normal ,Medium,Fail,Medium,Medium,Emergency
+Fail,Medium,Medium,Normal ,Medium,Fail,Medium,Fail,Emergency
+Fail,Medium,Medium,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Fail,Medium,Medium,Normal ,Medium,Fail,Fail,Medium,Emergency
+Fail,Medium,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Medium,Medium,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal ,Medium,Normal ,High risk
+Fail,Medium,Medium,Medium,Fail,Normal ,Medium,Medium,High risk
+Fail,Medium,Medium,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Medium,Medium,Medium,Fail,Medium,Fail,Normal ,High risk
+Fail,Medium,Medium,Medium,Fail,Medium,Fail,Medium,High risk
+Fail,Medium,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Medium,Medium,Medium,Normal ,Medium,Normal ,Normal ,High risk
+Fail,Medium,Medium,Medium,Normal ,Medium,Normal ,Medium,High risk
+Fail,Medium,Medium,Medium,Normal ,Medium,Normal ,Fail,High risk
+Fail,Medium,Medium,Medium,Normal ,Fail,Medium,Normal ,High risk
+Fail,Medium,Medium,Medium,Normal ,Fail,Medium,Medium,High risk
+Fail,Medium,Medium,Medium,Normal ,Fail,Medium,Fail,High risk
+Fail,Medium,Medium,Medium,Normal ,Fail,Fail,Normal ,High risk
+Fail,Medium,Medium,Medium,Normal ,Fail,Fail,Medium,High risk
+Fail,Medium,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Medium,Medium,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Medium,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Medium,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Medium,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Medium,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Medium,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Medium,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Medium,Fail,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Medium,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Medium,Fail,Normal ,Normal ,Normal ,Medium,Fail,Emergency
+Fail,Medium,Fail,Normal ,Normal ,Medium,Fail,Normal ,Emergency
+Fail,Medium,Fail,Normal ,Normal ,Medium,Fail,Medium,Emergency
+Fail,Medium,Fail,Normal ,Normal ,Medium,Fail,Fail,Emergency
+Fail,Medium,Fail,Normal ,Medium,Medium,Normal ,Normal ,Emergency
+Fail,Medium,Fail,Normal ,Medium,Medium,Normal ,Medium,Emergency
+Fail,Medium,Fail,Normal ,Medium,Medium,Normal ,Fail,Emergency
+Fail,Medium,Fail,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Fail,Medium,Fail,Normal ,Medium,Fail,Medium,Medium,Emergency
+Fail,Medium,Fail,Normal ,Medium,Fail,Medium,Fail,Emergency
+Fail,Medium,Fail,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Fail,Medium,Fail,Normal ,Medium,Fail,Fail,Medium,Emergency
+Fail,Medium,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Medium,Fail,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Medium,Fail,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Medium,Fail,Medium,Fail,Normal ,Normal ,Fail,High risk
+Fail,Medium,Fail,Medium,Fail,Normal ,Medium,Normal ,High risk
+Fail,Medium,Fail,Medium,Fail,Normal ,Medium,Medium,High risk
+Fail,Medium,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Medium,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Fail,Medium,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Medium,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Medium,Fail,Medium,Normal ,Medium,Normal ,Normal ,Emergency
+Fail,Medium,Fail,Medium,Normal ,Medium,Normal ,Medium,Emergency
+Fail,Medium,Fail,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Fail,Medium,Fail,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Fail,Medium,Fail,Medium,Normal ,Fail,Medium,Medium,Emergency
+Fail,Medium,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Medium,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Medium,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Medium,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Medium,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Medium,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Medium,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Medium,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Medium,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Medium,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Fail,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Fail,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Fail,Normal ,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Fail,Normal ,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Fail,Normal ,Normal ,Medium,Medium,Normal ,Fail,Emergency
+Fail,Fail,Normal ,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Fail,Fail,Normal ,Normal ,Medium,Fail,Medium,Medium,Emergency
+Fail,Fail,Normal ,Normal ,Medium,Fail,Medium,Fail,Emergency
+Fail,Fail,Normal ,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Fail,Fail,Normal ,Normal ,Medium,Fail,Fail,Medium,Emergency
+Fail,Fail,Normal ,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Fail,Normal ,Medium,Fail,Normal ,Normal ,Normal ,Emergency
+Fail,Fail,Normal ,Medium,Fail,Normal ,Normal ,Medium,Emergency
+Fail,Fail,Normal ,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Fail,Fail,Normal ,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Fail,Fail,Normal ,Medium,Fail,Normal ,Medium,Medium,Emergency
+Fail,Fail,Normal ,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Fail,Normal ,Medium,Fail,Medium,Fail,Normal ,Emergency
+Fail,Fail,Normal ,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Fail,Normal ,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Medium,Normal ,Normal ,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Medium,Normal ,Medium,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Fail,Medium,Medium,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Fail,Normal ,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Fail,Normal ,Fail,Medium,Normal ,Normal ,Normal ,High risk
+Fail,Fail,Normal ,Fail,Medium,Normal ,Normal ,Medium,High risk
+Fail,Fail,Normal ,Fail,Medium,Normal ,Normal ,Fail,High risk
+Fail,Fail,Normal ,Fail,Medium,Normal ,Medium,Normal ,High risk
+Fail,Fail,Normal ,Fail,Medium,Normal ,Medium,Medium,High risk
+Fail,Fail,Normal ,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Fail,Normal ,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Fail,Normal ,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Fail,Normal ,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Fail,Normal ,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Fail,Normal ,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Fail,Normal ,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Fail,Normal ,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Fail,Normal ,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Fail,Normal ,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Fail,Normal ,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Fail,Normal ,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Fail,Normal ,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Fail,Medium,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Fail,Medium,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Fail,Medium,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Fail,Medium,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Fail,Medium,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Fail,Medium,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Fail,Medium,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Fail,Medium,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Fail,Medium,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Fail,Medium,Normal ,Medium,Medium,Normal ,Fail,Emergency
+Fail,Fail,Medium,Normal ,Medium,Fail,Medium,Normal ,Emergency
+Fail,Fail,Medium,Normal ,Medium,Fail,Medium,Medium,Emergency
+Fail,Fail,Medium,Normal ,Medium,Fail,Medium,Fail,Emergency
+Fail,Fail,Medium,Normal ,Medium,Fail,Fail,Normal ,Emergency
+Fail,Fail,Medium,Normal ,Medium,Fail,Fail,Medium,Emergency
+Fail,Fail,Medium,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Fail,Medium,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Fail,Medium,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Fail,Medium,Medium,Fail,Normal ,Normal ,Fail,High risk
+Fail,Fail,Medium,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Fail,Fail,Medium,Medium,Fail,Normal ,Medium,Medium,Emergency
+Fail,Fail,Medium,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Fail,Medium,Medium,Fail,Medium,Fail,Normal ,Emergency
+Fail,Fail,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Fail,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Fail,Medium,Medium,Normal ,Medium,Normal ,Normal ,Emergency
+Fail,Fail,Medium,Medium,Normal ,Medium,Normal ,Medium,Emergency
+Fail,Fail,Medium,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Fail,Fail,Medium,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Fail,Fail,Medium,Medium,Normal ,Fail,Medium,Medium,Emergency
+Fail,Fail,Medium,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Fail,Medium,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Fail,Medium,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Fail,Medium,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Fail,Medium,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Fail,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Fail,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Fail,Medium,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Fail,Medium,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Fail,Medium,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Fail,Fail,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Fail,Fail,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Fail,Fail,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Fail,Fail,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Fail,Fail,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Fail,Fail,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Fail,Fail,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Fail,Fail,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Fail,Fail,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Fail,Fail,Normal ,Medium,Medium,Normal ,Fail,High risk
+Fail,Fail,Fail,Normal ,Medium,Fail,Medium,Normal ,High risk
+Fail,Fail,Fail,Normal ,Medium,Fail,Medium,Medium,High risk
+Fail,Fail,Fail,Normal ,Medium,Fail,Medium,Fail,High risk
+Fail,Fail,Fail,Normal ,Medium,Fail,Fail,Normal ,High risk
+Fail,Fail,Fail,Normal ,Medium,Fail,Fail,Medium,High risk
+Fail,Fail,Fail,Normal ,Medium,Fail,Fail,Fail,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal ,Normal ,Normal ,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal ,Normal ,Medium,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal ,Normal ,Fail,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal ,Medium,Normal ,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal ,Medium,Medium,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal ,Medium,Fail,Emergency
+Fail,Fail,Fail,Medium,Fail,Medium,Fail,Normal ,Emergency
+Fail,Fail,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Fail,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Fail,Fail,Medium,Normal ,Medium,Normal ,Normal ,Emergency
+Fail,Fail,Fail,Medium,Normal ,Medium,Normal ,Medium,Emergency
+Fail,Fail,Fail,Medium,Normal ,Medium,Normal ,Fail,Emergency
+Fail,Fail,Fail,Medium,Normal ,Fail,Medium,Normal ,Emergency
+Fail,Fail,Fail,Medium,Normal ,Fail,Medium,Medium,Emergency
+Fail,Fail,Fail,Medium,Normal ,Fail,Medium,Fail,Emergency
+Fail,Fail,Fail,Medium,Normal ,Fail,Fail,Normal ,Emergency
+Fail,Fail,Fail,Medium,Normal ,Fail,Fail,Medium,Emergency
+Fail,Fail,Fail,Medium,Normal ,Fail,Fail,Fail,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal ,Normal ,Normal ,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal ,Normal ,Medium,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal ,Normal ,Fail,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal ,Medium,Normal ,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal ,Medium,Medium,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal ,Medium,Fail,Emergency
+Fail,Fail,Fail,Fail,Medium,Medium,Fail,Normal ,Emergency
+Fail,Fail,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Fail,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Fail,Fail,Fail,Fail,Medium,Normal ,Normal ,Emergency
+Fail,Fail,Fail,Fail,Fail,Medium,Normal ,Medium,Emergency
+Fail,Fail,Fail,Fail,Fail,Medium,Normal ,Fail,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Medium,Normal ,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Fail,Normal ,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Low ,Normal,Normal ,Normal ,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Normal ,Medium,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Normal ,Fail,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Medium,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Normal ,Medium,Fail,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Medium,Fail,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Medium,Fail,Medium,High risk
+Fail,Low ,Normal ,Normal ,Normal ,Medium,Fail,Fail,High risk
+Fail,Low ,Normal ,Normal ,Medium,Medium,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Medium,Medium,Normal ,Medium,High risk
+Fail,Low ,Normal ,Normal ,Medium,Medium,Normal ,Fail,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Medium,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Medium,Medium,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Medium,Fail,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Fail,Normal ,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Fail,Medium,High risk
+Fail,Low ,Normal ,Normal ,Medium,Fail,Fail,Fail,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Normal ,Normal ,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Normal ,Medium,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Normal ,Fail,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Medium,Normal,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal ,Medium,Medium,High risk
+Fail,Low ,Normal ,Medium,Fail,Normal,Medium,Fail,High risk
+Fail,Low,Normal,Medium,Fail,Medium,Fail,Normal,High risk
+Fail,Low,Normal,Medium,Fail,Medium,Fail,Medium,High risk
+Fail,Low,Normal,Medium,Fail,Medium,Fail,Fail,High risk
+Fail,Low Normal,Medium,Normal,Medium,Normal,Normal,High risk
+Fail,Low,Normal,Medium,Normal,Medium,Normal,Medium,High risk
+Fail,Low,Normal,Medium,Normal,Medium,Normal,Fail,High risk
+Fail,Low,Normal,Medium,Normal,Fail,Medium,Normal,Eergency
+Fail,Low,Normal,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Low,Normal,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Low,Normal,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Low,Normal,Fail,Medium,Normal,Normal,Normal,Emergency
+Fail,Low,Normal,Fail,Medium,Normal,Normal,Medium,Emergency
+Fail,Low,Normal,Fail,Medium,Normal,Normal,Fail,Emergency
+Fail,Low,Normal,Fail,Medium,Normal,Medium,Normal,Emergency
+Fail,Low,Normal,Fail,Medium,Normal,Medium,Medium,Emergency
+Fail,Low,Normal,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Low,Normal,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Low,Normal,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Low,Normal,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Low,Normal,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Low,Normal,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Low,Normal,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Low,Normal,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Low,Normal,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Low,Normal,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Low,Normal,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Low,Normal,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Low,Normal,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Low,Medium,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Low,Medium,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Low,Medium,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Low,Medium,Normal,Normal,Normal,Medium,Normal ,High risk
+Fail,Low,Medium,Normal,Normal,Normal,Medium,Medium,High risk
+Fail,Low,Medium,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Low,Medium,Normal,Normal,Medium,Fail,Normal,High risk
+Fail,Low,Medium,Normal,Normal,Medium,Fail,Medium,High risk
+Fail,Low,Medium,Normal,Normal,Medium,Fail,Fail,High risk
+Fail,Low,Medium,Normal,Medium,Medium,Normal,Normal,High risk
+Fail,Low,Medium,Normal,Medium,Medium,Normal,Medium,High risk
+Fail,Low,Medium,Normal,Medium,Medium,Normal,Fail,High risk
+Fail,Low,Medium,Normal,Medium,Fail,Medium,Normal,High risk
+Fail,Low,Medium,Normal,Medium,Fail,Medium,Medium,High risk
+Fail,Low,Medium,Normal,Medium,Fail,Medium,Fail,High risk
+Fail,Low,Medium,Normal,Medium,Fail,Fail,Normal,High risk
+Fail,Low,Medium,Normal,Medium,Fail,Fail,Medium,High risk
+Fail,Low,Medium,Normal,Medium,Fail,Fail,Fail,High risk
+Fail,Low,Medium,Medium,Fail,Normal,Normal,Normal,High risk
+Fail,Low,Medium,Medium,Fail,Normal,Normal,Medium,High risk
+Fail,Low,Medium,Medium,Fail,Normal,Normal,Fail,High risk
+Fail,Low,Medium,Medium,Fail,Normal,Medium,Normal,High risk
+Fail,Low,Medium,Medium,Fail,Normal,Medium,Medium,High risk
+Fail,Low,Medium,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Low,Medium,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Low,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Low,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Low,Medium,Medium,Normal,Medium,Normal,Normal,Emergency
+Fail,Low,Medium,Medium,Normal,Medium,Normal,Medium,Emergency
+Fail,Low,Medium,Medium,Normal,Medium,Normal,Fail,Emergency
+Fail,Low,Medium,Medium,Normal,Fail,Medium,Normal,Emergency
+Fail,Low,Medium,Medium,Normal,Fail,Medium,Medium,Emergency
+Fail,Low,Medium,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Low,Medium,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Low,Medium,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Low,Medium,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Low,Medium,Fail,Medium,Normal,Normal,Normal,Emergency
+Fail,Low,Medium,Fail,Medium,Normal,Normal,Medium,Emergency
+Fail,Low,Medium,Fail,Medium,Normal,Normal,Fail,Emergency
+Fail,Low,Medium,Fail,Medium,Normal,Medium,Normal,Emergency
+Fail,Low,Medium,Fail,Medium,Normal,Medium,Medium,Emergency
+Fail,Low,Medium,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Low,Medium,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Low,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Low,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Low,Medium,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Low,Medium,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Low,Medium,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Low,Medium,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Low,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Low,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Low,Medium,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Low,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Low,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Low,Fail,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Low,Fail,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Low,Fail,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Low,Fail,Normal,Normal,Normal,Medium,Normal,High risk
+Fail,Low,Fail,Normal,Normal ,Normal,Medium,Medium,High risk
+Fail,Low,Fail,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Low,Fail,Normal,Normal ,Medium,Fail,Normal,Emergency
+Fail,Low,Fail,Normal,Normal,Medium,Fail,Medium,Emergency
+Fail,Low,Fail,Normal,Normal Medium,Fail,Fail,Emergency
+Fail,Low,Fail,Normal,Medium,Medium,Normal,Normal,Emergency
+Fail,Low,Fail,Normal,Medium,Medium,Normal,Medium,Emergency
+Fail,Low,Fail,Normal,Medium,Medium,Normal,Fail,Emergency
+Fail,Low,Fail,Normal,Medium,Fail,Medium,Normal,Emergency
+Fail,Low,Fail,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Low,Fail,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Low,Fail,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Low,Fail,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Low,Fail,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Low,Fail,Medium,Fail,Normal,Normal,Normal,Emergency
+Fail,Low,Fail,Medium,Fail,Normal,Normal,Medium,Emergency
+Fail,Low,Fail,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Low,Fail,Medium,Fail,Normal,Medium,Normal,Emergency
+Fail,Low,Fail,Medium,Fail,Normal,Medium,Medium,Emergency
+Fail,Low,Fail,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Low,Fail,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Low,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Low,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Low,Fail,Medium,Normal,Medium,Normal,Normal,Emergency
+Fail,Low,Fail,Medium,Normal,Medium,Normal,Medium,Emergency
+Fail,Low,Fail,Medium,Normal,Medium,Normal,Fail,Emergency
+Fail,Low,Fail,Medium,Normal,Fail,Medium,Normal,Emergency
+Fail,Low,Fail,Medium,Normal,Fail,Medium,Medium,Emergency
+Fail,Low,Fail,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Low,Fail,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Low,Fail,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Low,Fail,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Low,Fail,Fail,Medium,Normal,Normal,Normal,Emergency
+Fail,Low,Fail,Fail,Medium,Normal,Normal,Medium,Emergency
+Fail,Low,Fail,Fail,Medium,Normal,Normal,Fail,Emergency
+Fail,Low,Fail,Fail,Medium,Normal,Medium,Normal,Emergency
+Fail,Low,Fail,Fail,Medium,Normal,Medium,Medium,Emergency
+Fail,Low,Fail,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Low,Fail,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Low,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Low,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Low,Fail,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Low,Fail,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Low,Fail,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Low,Fail,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Low,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Low,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Low,Fail,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Low,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Low,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Medium,Normal,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Medium,Normal,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Medium,Normal,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Medium,Normal,Normal,Normal,Normal,Medium,Normal,High risk
+Fail,Medium,Normal,Normal,Normal,Normal,Medium,Medium,High risk
+Fail,Medium,Normal,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Medium,Normal,Normal,Normal,Medium,Fail,Normal,High risk
+Fail,Medium,Normal,Normal,Normal,Medium,Fail,Medium,High risk
+Fail,Medium,Normal,Normal,Normal,Medium,Fail,Fail,High risk
+Fail,Medium,Normal,Normal,Medium,Medium,Normal,Normal,High risk
+Fail,Medium,Normal,Normal,Medium,Medium,Normal,Medium,High risk
+Fail,Medium,Normal,Normal,Medium,Medium,Normal,Fail,High risk
+Fail,Medium,Normal,Normal,Medium,Fail,Medium,Normal,Emergency
+Fail,Medium,Normal,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Medium,Normal,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Medium,Normal,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Medium,Normal,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Medium,Normal,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Medium,Normal,Medium,Fail,Normal,Normal,Normal,Emergency
+Fail,Medium,Normal,Medium,Fail,Normal,Normal,Medium,Emergency
+Fail,Medium,Normal,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Medium,Normal,Medium,Fail,Normal,Medium,Normal,Emergency
+Fail,Medium,Normal,Medium,Fail,Normal,Medium,Medium,Emergency
+Fail,Medium,Normal,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Medium,Normal,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Medium,Normal,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Medium,Normal,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Medium,Normal,Medium,Normal,Medium,Normal,Normal,High risk
+Fail,Medium,Normal,Medium,Normal,Medium,Normal,Medium,High risk
+Fail,Medium,Normal,Medium,Normal,Medium,Normal,Fail,High risk
+Fail,Medium,Normal,Medium,Normal,Fail,Medium,Normal,High risk
+Fail,Medium,Normal,Medium,Normal,Fail,Medium,Medium,High risk
+Fail,Medium,Normal,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Medium,Normal,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Medium,Normal,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Medium,Normal,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Medium,Normal,Fail,Medium,Normal,Normal,Normal,Emergency
+Fail,Medium,Normal,Fail,Medium,Normal,Normal,Medium,Emergency
+Fail,Medium,Normal,Fail,Medium,Normal,Normal,Fail,Emergency
+Fail,Medium,Normal,Fail,Medium,Normal,Medium,Normal,Emergency
+Fail,Medium,Normal,Fail,Medium,Normal,Medium,Medium,Emergency
+Fail,Medium,Normal,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Medium,Normal,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Medium,Normal,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Medium,Normal,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Medium,Normal,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Medium,Normal,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Medium,Normal,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Medium,Normal,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Medium,Normal,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Medium,Normal,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Medium,Normal,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Medium,Normal,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Medium,Normal,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Medium,Medium,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Medium,Medium,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Medium,Medium,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Medium,Medium,Normal,Normal,Normal,Medium,Normal,High risk
+Fail,Medium,Medium,Normal,Normal,Normal,Medium,Medium,High risk
+Fail,Medium,Medium,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Medium,Medium,Normal,Normal,Medium,Fail,Normal,High risk
+Fail,Medium,Medium,Normal,Normal,Medium,Fail,Medium,High risk
+Fail,Medium,Medium,Normal,Normal,Medium,Fail,Fail,High risk
+Fail,Medium,Medium,Normal,Medium,Medium,Normal,Normal,High risk
+Fail,Medium,Medium,Normal,Medium,Medium,Normal,Medium,High risk
+Fail,Medium,Medium,Normal,Medium,Medium,Normal,Fail,High risk
+Fail,Medium,Medium,Normal,Medium,Fail,Medium,Normal,High risk
+Fail,Medium,Medium,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Medium,Medium,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Medium,Medium,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Medium,Medium,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Medium,Medium,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal,Normal,Normal,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal,Normal,Medium,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal,Medium,Normal,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal,Medium,Medium,Emergency
+Fail,Medium,Medium,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Medium,Medium,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Medium,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Medium,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Medium,Medium,Medium,Normal,Medium,Normal,Normal,Emergency
+Fail,Medium,Medium,Medium,Normal,Medium,Normal,Medium,Emergency
+Fail,Medium,Medium,Medium,Normal,Medium,Normal,Fail,Emergency
+Fail,Medium,Medium,Medium,Normal,Fail,Medium,Normal,Emergency
+Fail,Medium,Medium,Medium,Normal,Fail,Medium,Medium,Emergency
+Fail,Medium,Medium,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Medium,Medium,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Medium,Medium,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Medium,Medium,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Medium,Medium,Fail,Medium,Normal,Normal,Normal,High risk
+Fail,Medium,Medium,Fail,Medium,Normal,Normal,Medium,High risk
+Fail,Medium,Medium,Fail,Medium,Normal,Normal,Fail,High risk
+Fail,Medium,Medium,Fail,Medium,Normal,Medium,Normal,High risk
+Fail,Medium,Medium,Fail,Medium,Normal,Medium,Medium,High risk
+Fail,Medium,Medium,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Medium,Medium,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Medium,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Medium,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Medium,Medium,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Medium,Medium,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Medium,Medium,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Medium,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Medium,Fail,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Medium,Fail,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Medium,Fail,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Medium,Fail,Normal,Normal,Normal,Medium,Normal,High risk
+Fail,Medium,Fail,Normal,Normal,Normal,Medium,Medium,High risk
+Fail,Medium,Fail,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Medium,Fail,Normal,Normal,Medium,Fail,Normal,High risk
+Fail,Medium,Fail,Normal,Normal,Medium,Fail,Medium,High risk
+Fail,Medium,Fail,Normal,Normal,Medium,Fail,Fail,Emergency
+Fail,Medium,Fail,Normal,Medium,Medium,Normal,Normal,Emergency
+Fail,Medium,Fail,Normal,Medium,Medium,Normal,Medium,Emergency
+Fail,Medium,Fail,Normal,Medium,Medium,Normal,Fail,Emergency
+Fail,Medium,Fail,Normal,Medium,Fail,Medium,Normal,Emergency
+Fail,Medium,Fail,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Medium,Fail,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Medium,Fail,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Medium,Fail,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Medium,Fail,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Medium,Fail,Medium,Fail,Normal,Normal,Normal,High risk
+Fail,Medium,Fail,Medium,Fail,Normal,Normal,Medium,Emergency
+Fail,Medium,Fail,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Medium,Fail,Medium,Fail,Normal,Medium,Normal,Emergency
+Fail,Medium,Fail,Medium,Fail,Normal,Medium,Medium,Emergency
+Fail,Medium,Fail,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Medium,Fail,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Medium,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Medium,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Medium,Fail,Medium,Normal,Medium,Normal,Normal,Emergency
+Fail,Medium,Fail,Medium,Normal,Medium,Normal,Medium,Emergency
+Fail,Medium,Fail,Medium,Normal,Medium,Normal,Fail,Emergency
+Fail,Medium,Fail,Medium,Normal,Fail,Medium,Normal,Emergency
+Fail,Medium,Fail,Medium,Normal,Fail,Medium,Medium,Emergency
+Fail,Medium,Fail,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Medium,Fail,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Medium,Fail,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Medium,Fail,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Medium,Fail,Fail,Medium,Normal,Normal,Normal,High risk
+Fail,Medium,Fail,Fail,Medium,Normal,Normal,Medium,High risk
+Fail,Medium,Fail,Fail,Medium,Normal,Normal,Fail,High risk
+Fail,Medium,Fail,Fail,Medium,Normal,Medium,Normal,High risk
+Fail,Medium,Fail,Fail,Medium,Normal,Medium,Medium,High risk
+Fail,Medium,Fail,Fail,Medium,Normal,Medium,Fail,High risk
+Fail,Medium,Fail,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Medium,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Medium,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Medium,Fail,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Medium,Fail,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Medium,Fail,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Medium,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Fail,Normal,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Fail,Normal,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Fail,Normal,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Fail,Normal,Normal,Normal,Normal,Medium,Normal,High risk
+Fail,Fail,Normal,Normal,Normal,Normal,Medium,Medium,High risk
+Fail,Fail,Normal,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Fail,Normal,Normal,Normal,Medium,Fail,Normal,High risk
+Fail,Fail,Normal,Normal,Normal,Medium,Fail,Medium,High risk
+Fail,Fail,Normal,Normal,Normal,Medium,Fail,Fail,High risk
+Fail,Fail,Normal,Normal,Medium,Medium,Normal,Normal,High risk
+Fail,Fail,Normal,Normal,Medium,Medium,Normal,Medium,High risk
+Fail,Fail,Normal,Normal,Medium,Medium,Normal,Fail,High risk
+Fail,Fail,Normal,Normal,Medium,Fail,Medium,Normal,Emergency
+Fail,Fail,Normal,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Fail,Normal,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Fail,Normal,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Fail,Normal,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Fail,Normal,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Fail,Normal,Medium,Fail,Normal,Normal,Normal,High risk
+Fail,Fail,Normal,Medium,Fail,Normal,Normal,Medium,High risk
+Fail,Fail,Normal,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Fail,Normal,Medium,Fail,Normal,Medium,Normal,High risk
+Fail,Fail,Normal,Medium,Fail,Normal,Medium,Medium,High risk
+Fail,Fail,Normal,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Fail,Normal,Medium,Fail,Medium,Fail,Normal,High risk
+Fail,Fail,Normal,Medium,Fail,Medium,Fail,Medium,High risk
+Fail,Fail,Normal,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Fail,Normal,Medium,Normal,Medium,Normal,Normal,High risk
+Fail,Fail,Normal,Medium,Normal,Medium,Normal,Medium,High risk
+Fail,Fail,Normal,Medium,Normal,Medium,Normal,Fail,High risk
+Fail,Fail,Normal,Medium,Normal,Fail,Medium,Normal,High risk
+Fail,Fail,Normal,Medium,Normal,Fail,Medium,Medium,High risk
+Fail,Fail,Normal,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Fail,Normal,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Fail,Normal,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Fail,Normal,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Fail,Normal,Fail,Medium,Normal,Normal,Normal,High risk
+Fail,Fail,Normal,Fail,Medium,Normal,Normal,Medium,High risk
+Fail,Fail,Normal,Fail,Medium,Normal,Normal,Fail,High risk
+Fail,Fail,Normal,Fail,Medium,Normal,Medium,Normal,High risk
+Fail,Fail,Normal,Fail,Medium,Normal,Medium,Medium,High risk
+Fail,Fail,Normal,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Fail,Normal,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Fail,Normal,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Fail,Normal,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Fail,Normal,Fail,Fail,Medium,Normal,Normal,High risk
+Fail,Fail,Normal,Fail,Fail,Medium,Normal,Medium,High risk
+Fail,Fail,Normal,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Fail,Normal,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Fail,Normal,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Fail,Normal,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Fail,Normal,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Fail,Normal,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Fail,Normal,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Fail,Medium,Normal,Normal,Normal,Normal,Normal,High risk
+Fail,Fail,Medium,Normal,Normal,Normal,Normal,Medium,High risk
+Fail,Fail,Medium,Normal,Normal,Normal,Normal,Fail,High risk
+Fail,Fail,Medium,Normal,Normal,Normal,Medium,Normal,High risk
+Fail,Fail,Medium,Normal,Normal,Normal,Medium,Medium,High risk
+Fail,Fail,Medium,Normal,Normal,Normal,Medium,Fail,High risk
+Fail,Fail,Medium,Normal,Normal,Medium,Fail,Normal,High risk
+Fail,Fail,Medium,Normal,Normal,Medium,Fail,Medium,High risk
+Fail,Fail,Medium,Normal,Normal,Medium,Fail,Fail,Emergency
+Fail,Fail,Medium,Normal,Medium,Medium,Normal,Normal,High risk
+Fail,Fail,Medium,Normal,Medium,Medium,Normal,Medium,High risk
+Fail,Fail,Medium,Normal,Medium,Medium,Normal,Fail,High risk
+Fail,Fail,Medium,Normal,Medium,Fail,Medium,Normal,Emergency
+Fail,Fail,Medium,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Fail,Medium,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Fail,Medium,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Fail,Medium,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Fail,Medium,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Fail,Medium,Medium,Fail,Normal,Normal,Normal,High risk
+Fail,Fail,Medium,Medium,Fail,Normal,Normal,Medium,High risk
+Fail,Fail,Medium,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Fail,Medium,Medium,Fail,Normal,Medium,Normal,High risk
+Fail,Fail,Medium,Medium,Fail,Normal,Medium,Medium,High risk
+Fail,Fail,Medium,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Fail,Medium,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Fail,Medium,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Fail,Medium,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Fail,Medium,Medium,Normal,Medium,Normal,Normal,High risk
+Fail,Fail,Medium,Medium,Normal,Medium,Normal,Medium,High risk
+Fail,Fail,Medium,Medium,Normal,Medium,Normal,Fail,Emergency
+Fail,Fail,Medium,Medium,Normal,Fail,Medium,Normal,Emergency
+Fail,Fail,Medium,Medium,Normal,Fail,Medium,Medium,Emergency
+Fail,Fail,Medium,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Fail,Medium,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Fail,Medium,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Fail,Medium,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal,Normal,Normal,High risk
+Fail,Fail,Medium,Fail,Medium,Normal,Normal,Medium,High risk
+Fail,Fail,Medium,Fail,Medium,Normal,Normal,Fail,Emergency
+Fail,Fail,Medium,Fail,Medium,Normal,Medium,Normal,High risk
+Fail,Fail,Medium,Fail,Medium,Normal,Medium,Medium,High risk
+Fail,Fail,Medium,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Fail,Medium,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Fail,Medium,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Fail,Medium,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Fail,Medium,Fail,Fail,Medium,Normal,Normal,High risk
+Fail,Fail,Medium,Fail,Fail,Medium,Normal,Medium,High risk
+Fail,Fail,Medium,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Fail,Medium,Fail,Fail,Fail,Fail,Fail,Emergency
+Fail,Fail,Fail,Normal,Normal,Normal,Normal,Normal,Emergency
+Fail,Fail,Fail,Normal,Normal,Normal,Normal,Medium,Emergency
+Fail,Fail,Fail,Normal,Normal,Normal,Normal,Fail,Emergency
+Fail,Fail,Fail,Normal,Normal,Normal,Medium,Normal,Emergency
+Fail,Fail,Fail,Normal,Normal,Normal,Medium,Medium,Emergency
+Fail,Fail,Fail,Normal,Normal,Normal,Medium,Fail,Emergency
+Fail,Fail,Fail,Normal,Normal,Medium,Fail,Normal,Emergency
+Fail,Fail,Fail,Normal,Normal,Medium,Fail,Medium,Emergency
+Fail,Fail,Fail,Normal,Normal,Medium,Fail,Fail,Emergency
+Fail,Fail,Fail,Normal,Medium,Medium,Normal,Normal,Emergency
+Fail,Fail,Fail,Normal,Medium,Medium,Normal,Medium,Emergency
+Fail,Fail,Fail,Normal,Medium,Medium,Normal,Fail,Emergency
+Fail,Fail,Fail,Normal,Medium,Fail,Medium,Normal,Emergency
+Fail,Fail,Fail,Normal,Medium,Fail,Medium,Medium,Emergency
+Fail,Fail,Fail,Normal,Medium,Fail,Medium,Fail,Emergency
+Fail,Fail,Fail,Normal,Medium,Fail,Fail,Normal,Emergency
+Fail,Fail,Fail,Normal,Medium,Fail,Fail,Medium,Emergency
+Fail,Fail,Fail,Normal,Medium,Fail,Fail,Fail,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal,Normal,Normal,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal,Normal,Medium,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal,Normal,Fail,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal,Medium,Normal,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal,Medium,Medium,Emergency
+Fail,Fail,Fail,Medium,Fail,Normal,Medium,Fail,Emergency
+Fail,Fail,Fail,Medium,Fail,Medium,Fail,Normal,Emergency
+Fail,Fail,Fail,Medium,Fail,Medium,Fail,Medium,Emergency
+Fail,Fail,Fail,Medium,Fail,Medium,Fail,Fail,Emergency
+Fail,Fail,Fail,Medium,Normal,Medium,Normal,Normal,Emergency
+Fail,Fail,Fail,Medium,Normal,Medium,Normal,Medium,Emergency
+Fail,Fail,Fail,Medium,Normal,Medium,Normal,Fail,Emergency
+Fail,Fail,Fail,Medium,Normal,Fail,Medium,Normal,Emergency
+Fail,Fail,Fail,Medium,Normal,Fail,Medium,Medium,Emergency
+Fail,Fail,Fail,Medium,Normal,Fail,Medium,Fail,Emergency
+Fail,Fail,Fail,Medium,Normal,Fail,Fail,Normal,Emergency
+Fail,Fail,Fail,Medium,Normal,Fail,Fail,Medium,Emergency
+Fail,Fail,Fail,Medium,Normal,Fail,Fail,Fail,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal,Normal,Normal,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal,Normal,Medium,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal,Normal,Fail,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal,Medium,Normal,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal,Medium,Medium,Emergency
+Fail,Fail,Fail,Fail,Medium,Normal,Medium,Fail,Emergency
+Fail,Fail,Fail,Fail,Medium,Medium,Fail,Normal,Emergency
+Fail,Fail,Fail,Fail,Medium,Medium,Fail,Medium,Emergency
+Fail,Fail,Fail,Fail,Medium,Medium,Fail,Fail,Emergency
+Fail,Fail,Fail,Fail,Fail,Medium,Normal,Normal,Emergency
+Fail,Fail,Fail,Fail,Fail,Medium,Normal,Medium,Emergency
+Fail,Fail,Fail,Fail,Fail,Medium,Normal,Fail,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Medium,Normal,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Medium,Medium,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Medium,Fail,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Fail,Normal,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Fail,Medium,Emergency
+Fail,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Emergency
